@@ -1,0 +1,14 @@
+h2,
+.by {
+  font-family: "Raleway", Sans-Serif;
+  font-size: 30 px;
+}
+
+.by {
+  font-style: italic;
+}
+
+p {
+  font-family: "Open Sans", Sans-Serif;
+  font-size: 10px;
+}
